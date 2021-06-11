@@ -8,3 +8,6 @@ from  https://jsonplaceholder.typicode.com/posts/{post_id}/comments, for a certa
 #Used CocoaPods:
 - Alamofire
 - SnapKit
+
+#Warning 
+Before starting up the project reinstall cocaoPods, just open the terminal and go to the DataFetcher folder and call the 'pod install' command.
