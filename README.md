@@ -1,4 +1,4 @@
-# DataFetcher
+# DataFetcher with Clean Swift
 
 #This is a small app which is made by using Clean Swift Architecture.
 The app first fetches the data from  https://jsonplaceholder.typicode.com/posts to a table view with pagination, by using the Alamofire framework.
